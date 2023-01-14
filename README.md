@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Tomo Saigon</h1>
 <h3 align="center">I've been coding for decades, but most of it was either private for my companies and not open source or used revision control systems that predate git such as SVN, CVS, even RCS. I've worked on networking/security, UNIX, OpenBSD, e-commerce, and more recently payments, finance, blockchain, and smart contracts.</h3>
 
