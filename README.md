@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomo Saigon</h1>
-<h3 align="center">I've been coding for decades, but most of it was either private for my companies and not open source or used revision control systems that predate git such as SVN, CVS, even RCS. I've worked on networking/security, UNIX, OpenBSD, e-commerce, and more recently payments, finance, blockchain, and smart contracts.</h3>
+<h3 align="center">I've been coding for decades, most of it is not on my GitHub because a) they are in their own organizations for one time projects or b) it was internal to my private companies or c) used revision control systems that predate git such as SVN, CVS, even RCS. I've worked on networking/security, UNIX (kernel), OpenBSD, 8-bit games, e-commerce, and more recently payments, algo trading, financial exchanges, blockchain, and smart contracts.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomosaigon&label=Profile%20views&color=0e75b6&style=flat" alt="tomosaigon" /> </p>
 
@@ -9,7 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tomoxtechno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tomoxtechno" height="30" width="40" /></a>
+<a href="https://twitter.com/tomoXtechno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tomoXtechno" height="30" width="40" /></a>
+
+  <a href="https://twitter.com/tomoXtechno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tomoXtechno" height="30" width="40" /></a> (alt)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
