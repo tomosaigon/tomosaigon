@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Zero-Knowledge Proofs**
 
-- 💬 Ask me about **smart contracts**
+- 💬 Ask me about **blockchains and smart contracts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tomoXtechno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tomoXtechno" height="30" width="40" /></a>
+<a href="https://twitter.com/tomoXtechno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tomoXtechno" height="30" width="40" />@tomoXtechno</a>
 
-  <a href="https://twitter.com/tomoXtechno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tomoXtechno" height="30" width="40" /></a> (alt)
+  <a href="https://twitter.com/tomoXtechno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tomoXtechno" height="30" width="40" />@tomosaigon</a> (alt)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
