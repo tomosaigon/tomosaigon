@@ -1,5 +1,25 @@
-<h1 align="center">Hi 👋, I'm Tomo Saigon</h1>
-<h3 align="center">I've been coding for decades, most of it is not on my GitHub because a) they are in their own organizations for one time projects or b) it was internal to my private companies or c) used revision control systems that predate git such as SVN, CVS, even RCS. I've worked on networking/security, UNIX (kernel), OpenBSD, 8-bit games, e-commerce, and more recently payments, algo trading, financial exchanges, blockchain, and smart contracts.</h3>
+# Hi 👋, I'm Tomo Saigon, a techno nomad
+
+I've been coding for decades, most of it is not on my GitHub because a) they are in their own organizations for one time projects or b) it was internal to my private companies or c) used revision control systems that predate git such as SVN, CVS, even RCS. I've worked on networking/security, UNIX (kernel), OpenBSD, 8-bit games, e-commerce, and more recently payments, algo trading, financial exchanges, blockchain, and smart contracts.
+
+# Some GitHub organizations I have lead
+### [Plantation](https://github.com/PlantaFi/plantation)
+Inspired by: Virtual pets: Tamagotchi + Digital property: Decentraland + Play to earn: Axie Infinity + Virtual farming: Farmville + Yield farming. We built an on-chain mobile-friendly virtual yield farming game on Polygon using Chainlink VRF to provide entropy for fair distribution of game items. There is a NFT minter using NFTPort saving data on IPFS. There is an internal decentralized exchange (DEX) to trade earned items for MATIC (custom wrapped version) and dynamically price your yield.
+
+WINNER Chainlink Fall Hackathon 2021 UFO Gaming - 2nd Place - $12,500
+
+### [FloorWars](https://github.com/FloorWars/floorwarsv2)
+Create covered call options on the median decile floor price of CryptoPunks secured by UMA protocol and its LSP contracts.
+
+USDfw10PUNKc800-1221 is a covered call option on USD versus the Decile Floor CryptoPunks index price converted from ETH to USD. Token pairs are minted and collateralized by 1 USDC and represent 1 USDC worth of risk versus the price of USD in fw10PUNK at expiry. Long tokens expire worthless if more than $800,000 USDC is needed for 1 theoretical "fw10PUNK" otherwise are valued at the difference proportionate to the expiry price. For example, if fw10PUNKUSD (the inverse price) settles at $400,000 on December 31st, each long token will be worth: (1/200000 - 1/800000)/(1/200000) = 0.75 so $0.75 USDC per token. Short tokens are worth the remainder of the $1 of collateral, e.g. 1 - 0.75 = 0.25 so $0.25.
+
+WINNER ETHOnline 2021 UMA prize
+
+### [Grapheme](https://github.com/GraphemeNFT/rarible-scaffold)
+Create ascii Graphiti from letters on the blockchain. #NFT #GenerativeArt
+
+### [MeoUEnglish](https://github.com/meouenglish/meouenglish.github.io)
+Second language acquisition web application using natural language processing.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomosaigon&label=Profile%20views&color=0e75b6&style=flat" alt="tomosaigon" /> </p>
 
