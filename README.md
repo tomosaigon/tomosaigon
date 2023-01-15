@@ -15,6 +15,21 @@ USDfw10PUNKc800-1221 is a covered call option on USD versus the Decile Floor Cry
 
 WINNER ETHOnline 2021 UMA prize
 
+### [0xAudition](https://github.com/0xAudition/audition)
+#### The ultimate contract review platform/marketplace
+
+*Features*
+- A 100% community owned project.
+- Access huge developer pool to review your projects/contacts.
+- Set bounties for your contracts and attract the best reviewers.
+- Insure your Contracts and stay protected.
+- Stake and earn APY as the AUDN token appreciates.
+- Participate in Governance, make policies and stay in control.
+
+_Developers_
+- Earn bounties by reviewing contracts.
+- Earn AUDN token by participating in vetting the right claims.
+
 ### [Grapheme](https://github.com/GraphemeNFT/rarible-scaffold)
 Create ascii Graphiti from letters on the blockchain. #NFT #GenerativeArt
 
