@@ -12,6 +12,8 @@
 <a href="https://twitter.com/tomoXtechno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tomoXtechno" height="30" width="40" />@tomoXtechno</a>
 
   <a href="https://twitter.com/tomoXtechno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tomoXtechno" height="30" width="40" />@tomosaigon</a> (alt)
+
+  Blog: https://uncentered.saigonist.com/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
