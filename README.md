@@ -5,7 +5,7 @@ I've been coding for decades, most of it is not on my GitHub because
 2. it was internal to my private companies or 
 3. used revision control systems that predate git such as SVN, CVS, even RCS. 
 
-I've worked on networking/security, UNIX (kernel), OpenBSD, 8-bit games, e-commerce, and more recently payments, algo trading, financial exchanges, blockchain, and smart contracts.
+I've worked on networking/security, UNIX (kernel), OpenBSD, 8-bit games, e-commerce, and more recently payments, algo trading, securities exchanges, blockchain, and smart contracts.
 
 # Some GitHub organizations I have lead
 ### [Plantation](https://github.com/PlantaFi/plantation)
